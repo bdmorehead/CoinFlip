@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip", "CoinFlip\CoinFlip.csproj", "{45FD0DFC-175E-4F15-81BC-733479BB1328}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip2", "CoinFlip2\CoinFlip2.csproj", "{FAF11D36-89DD-4C39-8FD3-E9F0D94D332D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{45FD0DFC-175E-4F15-81BC-733479BB1328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45FD0DFC-175E-4F15-81BC-733479BB1328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45FD0DFC-175E-4F15-81BC-733479BB1328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF11D36-89DD-4C39-8FD3-E9F0D94D332D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF11D36-89DD-4C39-8FD3-E9F0D94D332D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF11D36-89DD-4C39-8FD3-E9F0D94D332D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF11D36-89DD-4C39-8FD3-E9F0D94D332D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
